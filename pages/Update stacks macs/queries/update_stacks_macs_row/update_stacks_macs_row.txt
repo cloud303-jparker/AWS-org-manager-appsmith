@@ -1,0 +1,5 @@
+{
+	"stak_id": "{{update_stak_id.text}}",
+	"macro_id": "{{update_macro_id.text}}",
+	"weight": "{{update_weight.text}}"
+}
